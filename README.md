@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @toygarulgen
-- 👀 I’m interested in Deep learning and machine learning applications
-- 🌱 I’m currently learning SQL
+👋 Hi, I’m Toygar
 
+![](https://komarev.com/ghpvc/?username=toygarulgen&color=blue)
+
+
+- 🔭 I am currently working at NYK Energy as a Data Scientist.
+- 👀 I’m also working in Deep Learning and Machine Learning Applications.
+- 🌱 I’m currently learning Python and SQL.
+- 📫 If needed, you can contact me: toygar.ulgen@ozu.edu.tr
 
 <!---
 toygarulgen/toygarulgen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
