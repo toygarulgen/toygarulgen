@@ -1,4 +1,4 @@
-👋 Hi, I’m Toygar
+👋 Hey there, I’m Toygar
 
 ![](https://komarev.com/ghpvc/?username=toygarulgen&color=blue)
 
