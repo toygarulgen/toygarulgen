@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=toygarulgen&color=blue)
 
-- 🔭 I am currently working at NYK Energy as a Data Scientist.
-- 👀 I’m also working in Deep Learning and Machine Learning Applications.
+- 🔭 I am currently working at GlaxoSmithKline as a Data Analyst.
+- 👀 I’m also working in Data Mining, Deep Learning and Machine Learning Applications.
 - 📫 If needed, you can contact me: toygar.ulgen@ozu.edu.tr
 
 <!---
